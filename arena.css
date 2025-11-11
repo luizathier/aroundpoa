@@ -6,7 +6,7 @@
       text-shadow: #0b0b0b 3px 0 10px;
       color: white;
       float: left;
-      padding-left: 33%;
+      padding-left: 32%;
       
     }
     #titulo {
@@ -149,7 +149,7 @@
   
   body {
   
-      background: linear-gradient(-45deg, #ee7752, #ff1c1c, #fa4848, #ffc6c6);
+      background: linear-gradient(-45deg, #7a7bdf, #2b1cff, #4871fa, #c6ceff);
   
       background-size: 400% 400%;
   
