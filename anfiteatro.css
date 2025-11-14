@@ -180,16 +180,16 @@
     
   
   }
-  #mapa{
+  .mapa{
     width: 80%;
     height: 500px;
     display: block;
     float: left;
-    padding-bottom: 40%;
+    padding-bottom: 5%;
     margin-left: 12%;
     margin-top: 5%;
   }
-   #mapa iframe{
+   .mapa iframe{
     width: 80%;
     height: 500px;
    }

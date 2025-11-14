@@ -6,7 +6,7 @@
     text-shadow: #0b0b0b 3px 0 10px;
     color: white;
     float: left;
-    
+
   }
   #titulo {
     animation: 2s anim-popoutin;
@@ -180,16 +180,16 @@ body {
   
 
 }
-#mapa{
+.mapa{
   width: 80%;
-  height: 200px;
+  height: 500px;
   display: block;
   float: left;
-  padding-bottom: 40%;
+  padding-bottom: 5%;
   margin-left: 12%;
   margin-top: 5%;
 }
- #mapa iframe{
+ .mapa iframe{
   width: 80%;
   height: 500px;
  }
